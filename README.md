@@ -8,4 +8,9 @@
  
  # Pics
 
-### `onInputChange`
+### `onChange`
+onChange={this.onInputChange} 
+
+### `onCLick`
+onClick={this.onInputClick}
+  
