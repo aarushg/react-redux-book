@@ -8,4 +8,4 @@
  
  # Pics
 
-###onChange
+### `onInputChange`
