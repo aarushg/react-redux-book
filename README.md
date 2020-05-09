@@ -14,7 +14,9 @@ Outside of Render:
     onInputChange(event) {
         console.log(event.target.value);
     }
+    
    //Can do the following line inline to the same thing
+    
     onInputClick() {
         console.log("Input was clicked");
     }
