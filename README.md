@@ -9,6 +9,7 @@
  # Pics
 
 Uncontrolled Change Method: 
+
 Outside of Render:
     onInputChange(event) {
         console.log(event.target.value);
