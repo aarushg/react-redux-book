@@ -67,6 +67,9 @@ Value is stored inside react state
     }
 }
 
-Making API requests
+Making API requests:
+
+Axios vs Fetch
+Axios is a 3rd party package and Fetch is built into modern browsers. 
 
 
