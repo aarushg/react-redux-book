@@ -8,7 +8,7 @@
  
  # Pics
 
-###Uncontrolled Change Method:
+Uncontrolled Change Method:
 Value is stored in HTML
 
     onInputChange(event) {
@@ -66,3 +66,7 @@ Value is stored inside react state
         );
     }
 }
+
+Making API requests
+
+
