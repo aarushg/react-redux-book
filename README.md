@@ -27,7 +27,8 @@ Uncontrolled Change Method:
                     <div className="field">
                         <label>Image Search </label>
                         <input type="text"
-                        //When a user clicks (onClick) or types (onChange) the event is called 
+                        //When a user clicks (onClick) or types (onChange) the event is called
+                            ### `npm start`
                             ###`onClick={this.onInputClick}`
                             ###'onChange={this.onInputChange}' />
                     </div>
