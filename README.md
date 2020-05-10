@@ -8,7 +8,7 @@
  
  # Pics
 
-Uncontrolled Change Method:
+###Uncontrolled Change Method:
 Value is stored in HTML
 
     onInputChange(event) {
