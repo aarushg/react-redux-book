@@ -9,6 +9,7 @@
  # Pics
 
 Uncontrolled Change Method:
+Value is stored in HTML
 
     onInputChange(event) {
         console.log(event.target.value);
@@ -38,7 +39,7 @@ Uncontrolled Change Method:
 };
 
 Controlled Change Method:
-
+Value is stored inside react state
 
 
   
