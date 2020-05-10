@@ -8,7 +8,7 @@
  
  # Pics
 
-Uncontrolled Change Method: 
+Uncontrolled Change Method:
 
     onInputChange(event) {
         console.log(event.target.value);
@@ -27,6 +27,7 @@ Uncontrolled Change Method:
                     <div className="field">
                         <label>Image Search </label>
                         <input type="text"
+                        //When a user clicks (onClick) or types (onChange) the event is called 
                             onClick={this.onInputClick}
                             onChange={this.onInputChange} />
                     </div>
